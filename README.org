@@ -1,0 +1,9 @@
+#+TITLE: beemov
+#+AUTHOR: pug0
+#+DATE: <2022-02-19 Sat>
+beemov is a simple web server that returns the bee movie script.
+
+* run
+#+BEGIN_SRC sh
+$ node src/main.js
+#+END_SRC
